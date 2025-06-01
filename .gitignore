@@ -1,0 +1,104 @@
+# ==========================
+# Python (.venv, cache, etc)
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.log
+*.sqlite3
+*.db
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+*.env
+.env.*
+*.env.*
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# CrewAI data
+crew_logs/
+llm_data/
+*.jsonl
+*.json_backup
+
+# Pytest & MyPy
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Build / dist / eggs
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Coverage
+htmlcov/
+.coverage
+coverage.xml
+
+# ==========================
+# Node.js / WhatsApp Web.js
+# ==========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Auth & Sessions
+.wwebjs_auth/
+.session/
+.session-data.json
+.auth/
+
+# QR Code files
+qrcode.png
+*.svg
+
+# Build / dist
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# PM2 logs and pids
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+*.lcov
+
+# ==========================
+# Sistema Operacional & IDEs
+# ==========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
