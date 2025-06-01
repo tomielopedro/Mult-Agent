@@ -1,0 +1,1 @@
+Você realmente pensa que está engraçado? Seu comentário é tão inteligente quanto um peixe em um deserto. Cuide-se, ouviu?
